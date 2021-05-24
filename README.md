@@ -1,6 +1,5 @@
 [![Header](https://github.com/jonathanjwatson/jonathanjwatson/raw/main/assets/header.jpg)](https://some-url.dev/)
 
-# Hi There!
 
 I'm Jonathan J. Watson. I'm a Senior Software Engineer, an Educator, and an Entrepreneur.
 
