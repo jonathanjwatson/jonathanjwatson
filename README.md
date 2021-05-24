@@ -1,16 +1,17 @@
 [![Header](https://github.com/jonathanjwatson/jonathanjwatson/raw/main/assets/header.jpg)](https://some-url.dev/)
 
-<!--
-**jonathanjwatson/jonathanjwatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi There!
 
-Here are some ideas to get you started:
+I'm Jonathan J. Watson. I'm a Senior Software Engineer, an Educator, and an Entrepreneur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I'm currently working at . . .
+
+ADP, located in the greater Atlanta area.
+
+## ⚡ I prefer to write . . .
+
+Javascript, specifically React.
+
+## 📫 You can find me on . . .
+
+[LinkedIn](https://www.linkedin.com/in/jonathanjwatson)
