@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/jonathanjwatson/jonathanjwatson/jonathanjwatson/assets/header.jpg "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/jonathanjwatson/jonathanjwatson/main/assets/header.jpg "Header")](https://some-url.dev/)
 
 <!--
 **jonathanjwatson/jonathanjwatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
