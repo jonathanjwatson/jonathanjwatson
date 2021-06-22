@@ -15,6 +15,11 @@ Javascript, specifically React.
 
 [LinkedIn](https://www.linkedin.com/in/jonathanjwatson)
 
-<div align="center">
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanjwatson&show_icons=true&theme=algolia)
-</div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanjwatson&repo=github-readme-stats&show_icons=true&theme==algolia" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
