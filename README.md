@@ -15,4 +15,6 @@ Javascript, specifically React.
 
 [LinkedIn](https://www.linkedin.com/in/jonathanjwatson)
 
+<div align="center">
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanjwatson&show_icons=true&theme=algolia)
+</div>
