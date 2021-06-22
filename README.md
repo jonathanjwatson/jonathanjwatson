@@ -14,3 +14,5 @@ Javascript, specifically React.
 ## 📫 You can find me on . . .
 
 [LinkedIn](https://www.linkedin.com/in/jonathanjwatson)
+
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanjwatson&show_icons=true)
