@@ -5,7 +5,7 @@ I'm Jonathan J. Watson. I'm a Senior Software Engineer, an Educator, and an Entr
 
 ## 🔭 I'm currently working at . . .
 
-ADP, located in the greater Atlanta area.
+Obie.
 
 ## ⚡ I prefer to write . . .
 
